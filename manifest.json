@@ -1,6 +1,6 @@
 {
-  "name": "Horoscope",
-  "id": "1185093989127807705",
+  "name": "Horoscope Demo",
+  "id": "horoscope-demo",
   "api": "1.0.0",
   "main": "dist/code.js",
   "editorType": ["figma", "figjam"],

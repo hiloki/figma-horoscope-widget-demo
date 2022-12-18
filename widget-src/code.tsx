@@ -48,10 +48,8 @@ function Widget() {
       .then(() => {
         setSign(sign);
         figma.notify("Wish you well 🪄");
-        // figma.closePlugin("done");
       })
       .catch(function (error) {
-        console.log("error");
         console.error(error);
       });
   }
